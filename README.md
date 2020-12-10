@@ -1,2 +1,3 @@
 # hello-world
-Data science practices exercises
+# changed the description
+Data science training and practice exercises
